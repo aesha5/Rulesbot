@@ -30,7 +30,7 @@ Rule-Based-AI-Chatbot/
 1. Clone the repository
 
 ```bash
-git clone <repository-url>
+git clone <https://github.com/aesha5/Rulesbot>
 ```
 
 2. Navigate to project folder
